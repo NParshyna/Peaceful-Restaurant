@@ -14,8 +14,7 @@ Project Summary Documentation:
 This document that has instructions how to view this project.
 2.  – Nataliya_Parshyna_Peaceful_Restaurant_Final_Report.pdf
 This is the final report for the project describing the problem, data used, methods of analysis, and final recommendation.
-2.	 -  Nataliya_Parshyna_Peaceful_Restaurant_Final_Presentation.pdf
-This is the presentation submitted for this Capstone project.
+
 
 Jupyter Notebooks, to be read in the following order:
 1.	- Nataliya_Parshyna_Peaceful_Restaurant_notebook1of4.ipynb
